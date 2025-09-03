@@ -20,6 +20,12 @@ export default function LessonsPage() {
           Consonants
         </a>
         <a
+          href="/lessons/numerals"
+          className="bg-red-200 hover:bg-red-300 px-6 py-3 rounded shadow text-xl font-semibold"
+        >
+          Numerals
+        </a>
+        <a
           href="/lessons/words"
           className="bg-green-200 hover:bg-green-300 px-6 py-3 rounded shadow text-xl font-semibold"
         >
