@@ -21,6 +21,17 @@ This project is an interactive web application designed to teach kids Tamil thro
    ```
 3. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
+## Accessing App Pages
+
+After starting the development server, you can open these pages in your browser:
+
+- Home: [http://localhost:3000/](http://localhost:3000/)
+- Lessons: [http://localhost:3000/lessons](http://localhost:3000/lessons)
+- Games: [http://localhost:3000/games](http://localhost:3000/games)
+- Quizzes: [http://localhost:3000/quizzes](http://localhost:3000/quizzes)
+- Progress: [http://localhost:3000/progress](http://localhost:3000/progress)
+- About: [http://localhost:3000/about](http://localhost:3000/about)
+
 ## Project Structure
 
 - `src/` - Main source code
