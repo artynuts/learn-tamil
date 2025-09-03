@@ -8,5 +8,6 @@
 - [ ] Ensure Documentation is Complete
 
 ## Progress
+
 - Project scaffolded using Next.js, TypeScript, Tailwind CSS, ESLint, App Router, and src directory.
 - Ready for customization with interactive lessons, games, and quizzes for teaching Tamil to kids.
