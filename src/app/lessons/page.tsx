@@ -14,6 +14,12 @@ export default function LessonsPage() {
           Letters
         </a>
         <a
+          href="/lessons/consonants"
+          className="bg-blue-200 hover:bg-blue-300 px-6 py-3 rounded shadow text-xl font-semibold"
+        >
+          Consonants
+        </a>
+        <a
           href="/lessons/words"
           className="bg-green-200 hover:bg-green-300 px-6 py-3 rounded shadow text-xl font-semibold"
         >
