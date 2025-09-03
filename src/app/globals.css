@@ -22,5 +22,27 @@
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Comic Sans MS", "Baloo 2", "Fredoka One", cursive, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Fredoka One", "Comic Sans MS", "Baloo 2", cursive, sans-serif;
+  letter-spacing: 1px;
+}
+
+a,
+button {
+  font-family: "Baloo 2", "Comic Sans MS", cursive, sans-serif;
+  font-weight: bold;
+  border-radius: 12px;
+  transition: background 0.2s, color 0.2s;
+}
+
+.fun-bg {
+  background: linear-gradient(135deg, #ffe29a 0%, #ffaec9 100%);
 }
